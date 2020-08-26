@@ -29,3 +29,6 @@ Choice of programming language - [Golang](https://golang.org/)
   - Factory Pattern 
     - Use cases
     - Examples
+5) Gmail API Scraper
+ - scrape the emails using an auth key from the env
+ - ability to scrape and transform the data to a format.
