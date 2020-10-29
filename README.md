@@ -12,7 +12,7 @@ There are multiple areas which I want to improve upon. Few include the following
 
 Choice of programming language - [Golang](https://golang.org/)
 
-1. Go Basics
+1. Go
 
    - default types
    - interfaces
@@ -21,6 +21,7 @@ Choice of programming language - [Golang](https://golang.org/)
    - Generics(not sure if they exist or not)
    - Web Services in Go
    - [TDD in GoLang](https://quii.gitbook.io/learn-go-with-tests/)
+   - [Table Drive Tests](https://dev.to/zpeters/testing-in-go-with-table-drive-tests-and-testify-kd4)
 
 2. Interesting implementations to try out
 
