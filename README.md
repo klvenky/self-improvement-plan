@@ -28,6 +28,7 @@ Choice of programming language - [Golang](https://golang.org/)
    - [Sample Network Algorithm](https://dev.to/itsmukulmishra/most-secured-tcp-implementation-k8f)
    - [Recreating standard libraries in go](https://dev.to/rubenwap/upskill-yourself-by-recreating-gnu-coretools-in-go-9f5)
    - [SymSpell](https://medium.com/@wolfgarbe/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f) algoritm. Reference [Github URL](https://github.com/wolfgarbe/SymSpell)
+   - Web Scraper
 
 3. ShortUrl generator in Go.
 4. Improve problem solving approaches
